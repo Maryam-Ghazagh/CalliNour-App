@@ -36,7 +36,9 @@ Full call automation and advanced parsing are still under development.
 1- Create a virtual environment (venv)
 
 python -m venv venv
+
 venv\Scripts\activate      # Windows
+
 source venv/bin/activate   # Mac/Linux
 
 
