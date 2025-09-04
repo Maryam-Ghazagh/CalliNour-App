@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Vosk model
+vosk-model-small-fa-0.5/
+
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+# Kivy build folders
+.buildozer/
+bin/
+dist/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Notebook checkpoints
+.ipynb_checkpoints/
