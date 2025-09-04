@@ -45,7 +45,7 @@ source venv/bin/activate   # Mac/Linux
 
 Download the vosk-model-small-fa-0.5 folder and place it in the project directory.
 
-Note: This folder is not included in Git due to its large size.
+**Note:** This folder is not included in Git due to its large size.
 
 <br>
 
