@@ -25,7 +25,7 @@ Full call automation and advanced parsing are still under development.<br><br><b
 
 <H2>Setup Instructions</H2>
 
-1- Create a virtual environment (venv)
+**1-** Create a virtual environment (venv)
 
 ```python -m venv venv
 
@@ -34,20 +34,20 @@ venv\Scripts\activate      # Windows
 source venv/bin/activate   # Mac/Linux
 ```
 <br>
-2- Install dependencies <br><br>
+**2-** Install dependencies <br><br>
 
 ```pip install -r requirements.txt```
 
 <br>
 
-3- Download the Vosk Persian model <br><br>
+**3-** Download the Vosk Persian model <br><br>
 
 Download the vosk-model-small-fa-0.5 folder and place it in the project directory.
 
 Note: This folder is not included in Git due to its large size.
 
 <br>
-4- Run the app
+**4-** Run the app
 <br><br>
 
 ```python main.py```
