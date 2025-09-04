@@ -43,7 +43,7 @@ source venv/bin/activate   # Mac/Linux
 
 **3-** Download the Vosk Persian model <br><br>
 
-Download the vosk-model-small-fa-0.5 folder and place it in the project directory.
+Download the **vosk-model-small-fa-0.5** folder and place it in the project directory.
 
 **Note:** This folder is not included in Git due to its large size.
 
