@@ -34,6 +34,7 @@ venv\Scripts\activate      # Windows
 source venv/bin/activate   # Mac/Linux
 ```
 <br>
+
 **2-** Install dependencies <br><br>
 
 ```pip install -r requirements.txt```
@@ -47,6 +48,7 @@ Download the vosk-model-small-fa-0.5 folder and place it in the project director
 Note: This folder is not included in Git due to its large size.
 
 <br>
+
 **4-** Run the app
 <br><br>
 
