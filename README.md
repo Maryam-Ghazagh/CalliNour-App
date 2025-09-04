@@ -6,14 +6,14 @@ CalliNour is a Python app built with Kivy and KivyMD designed to assist elderly 
 impaired individuals who cannot easily read or see the screen, by enabling offline voice commands for phone calls.
 
 
-* Features
+** Features
 
 Convert speech to text using Vosk Persian language model.
 
 Simple and accessible UI with a basic menu and a single button.
 
 
-* Technologies Used
+** Technologies Used
 
 Python
 
@@ -22,7 +22,7 @@ Kivy & KivyMD
 Vosk Persian language model
 
 
-* Current Status
+** Current Status
 
 Work in progress:
 
@@ -31,7 +31,7 @@ Currently, pressing the button displays the spoken words immediately on the scre
 Full call automation and advanced parsing are still under development.
 
 
-* Setup Instructions
+** Setup Instructions
 
 1- Create a virtual environment (venv)
 
@@ -57,7 +57,7 @@ Note: This folder is not included in Git due to its large size.
 python main.py
 
 
-* Notes
+** Notes
 
 The venv is used to manage project dependencies.
 
